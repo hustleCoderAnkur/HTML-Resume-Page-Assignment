@@ -6,3 +6,7 @@ This assignment is static resume webpage that presents my personal and professio
 It is a Single-page resume layout, It has Sections About Me, Skills, Experience, Projects, Education, and my Contact details. i have used Semantic HTML structure which increase projects readabilty and helps in SEO(Search Engine Optimisation)
 
 Technologies that Used while making this project is HTML5 only
+
+
+here is the deployed link for my single Resume Page assignment 
+https://hustlecoderankur-htmlresumepage.netlify.app/
